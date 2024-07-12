@@ -1,3 +1,4 @@
+#This code can extract phone numbers and email addresses from a given directory or any kind of passage 
 #importing necessary libraries
 import re, pyperclip
 
